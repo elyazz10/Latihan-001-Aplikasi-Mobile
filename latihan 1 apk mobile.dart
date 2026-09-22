@@ -77,14 +77,3 @@ void main() {
 
   print(mataKuliah);
 }
-```
-
-## Materi yang Dipelajari
-
-- `String` → menyimpan data berupa teks.
-- `int` → menyimpan bilangan bulat.
-- `double` → menyimpan bilangan desimal.
-- `bool` → menyimpan nilai `true` atau `false`.
-- `List<String>` → menyimpan kumpulan data berupa teks.
-- `print()` → menampilkan data ke output.
-- Nilai variabel dapat diubah selama tipe datanya tetap.
