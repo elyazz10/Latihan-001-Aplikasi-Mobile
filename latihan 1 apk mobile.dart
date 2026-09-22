@@ -1,5 +1,3 @@
-
-```dart
 void main() {
   // wakdsakdapda
   /*
